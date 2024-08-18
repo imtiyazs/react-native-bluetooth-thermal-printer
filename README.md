@@ -1,0 +1,3 @@
+React-Native package for bluetooth thermal printers.
+
+Documentation coming soon...

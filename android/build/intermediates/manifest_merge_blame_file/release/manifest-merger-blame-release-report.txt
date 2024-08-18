@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.trecent.bluetooth" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+6
+7    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+7-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:4:5-74
+7-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:4:22-71
+8    <uses-permission android:name="android.permission.BLUETOOTH" />
+8-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:5:5-68
+8-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:5:22-65
+9    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+9-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:6:5-80
+9-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:6:22-78
+10    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+10-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:7:5-78
+10-->/Users/imtiyaz/Workspace/trecent/hotel-management-system/pos-cloud-app/app/node_modules/react-native-bluetooth-escpos-printer/android/src/main/AndroidManifest.xml:7:22-76
+11
+12</manifest>

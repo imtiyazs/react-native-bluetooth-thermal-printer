@@ -1,0 +1,29 @@
+{
+  "name": "@imtiyazs/react-native-bluetooth-thermal-printer",
+  "version": "0.0.1",
+  "description": "React-Native package for the bluetooth thermal printers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ESC",
+    "POS",
+    "Bluetooth",
+    "Printer"
+  ],
+  "author": "Imtiyaz Shaikh",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.55.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imtiyazs/react-native-bluetooth-thermal-printer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imtiyazs/react-native-bluetooth-thermal-printer/issues"
+  },
+  "homepage": "https://github.com/imtiyazs/react-native-bluetooth-thermal-printer#readme"
+}
