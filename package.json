@@ -18,6 +18,9 @@
   "peerDependencies": {
     "react-native": ">=0.55.4"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/imtiyazs/react-native-bluetooth-thermal-printer.git"
