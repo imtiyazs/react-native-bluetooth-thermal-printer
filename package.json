@@ -1,6 +1,6 @@
 {
   "name": "@imtiyazs/react-native-bluetooth-thermal-printer",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "React-Native package for the bluetooth thermal printers.",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,6 @@
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.55.4"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
